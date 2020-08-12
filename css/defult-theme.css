@@ -1,0 +1,39 @@
+.colors {
+  border: 3px solid #f2184f;
+}
+.option-box .icon,
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:focus,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.dropdown-menu > li > a:focus,
+.carousel-indicators .active,
+.prices .box-price button,
+.our-team .person img:hover,
+.our-team .person .social-icon li,
+.scroll-top,
+.dropdown-menu > li > a:focus,
+.dropdown-menu > li > a:hover {
+  background-color: #f2184f;
+}
+
+.navbar-inverse .navbar-brand,
+.navbar-inverse .navbar-nav > li > a:hover,
+.carousel-caption p,
+.about h2 span,
+.about h3 span,
+.services .serve i,
+.testmonials span,
+.prices .box-price p,
+.statistics .state i,
+.contact button,
+.footer li:hover,
+.footer .cont .social li a:hover,
+.copy span {
+  color: #f2184f;
+}
+
+.carousel-indicators .active,
+.contact input[type="text"]:focus,
+.contact textarea:focus {
+  border: 1px solid #f2184f;
+}
